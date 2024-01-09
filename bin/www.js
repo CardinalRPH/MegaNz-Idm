@@ -6,7 +6,7 @@
 
 import app from '../app.js';
 import debugLib from 'debug';
-const debug = debugLib('calendar-by-full-calendar:server');
+const debug = debugLib('meganz-downloader:server');
 import { createServer } from 'http';
 
 /**
